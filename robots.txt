@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://AsTonyshment.github.io/sitemap.xml
